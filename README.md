@@ -5,9 +5,9 @@ Reversible-Jump Markov Chain Monte Carlo sampler for inference in ARX models wit
 
 This code was downloaded from < https://github.com/compops/rj-mcmc-std > or from < http://www.rt.isy.liu.se/~johda87/code.html > and contains the code used to produce the results in 
 
-J. Dahlin, F. Lindsten, T. B. Schön and A. Wills, 
+*J. Dahlin, F. Lindsten, T. B. Schön and A. Wills,
 Hierarchical Bayesian ARX models for robust inference. 
-The 16th IFAC Symposium on System Identification, Brussels, Belgium, 2012.
+The 16th IFAC Symposium on System Identification, Brussels, Belgium, 2012.*
 
 which is available as a draft from < http://www.rt.isy.liu.se/~johda87/publications.html >.
 
