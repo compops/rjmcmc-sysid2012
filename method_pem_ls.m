@@ -9,6 +9,9 @@
 % Authors: Johan Dahlin, Fredrik Lindsten, 
 %          Thomas B. Schön, Adrian Wills.
 %
+% Copyright (c) 2012 Johan Dahlin [ johan.dahlin (at) liu.se ] 
+% Copyright (c) 2012 Fredrik Lindsten [ lindsten (at) isy.liu.se ]
+%
 % Presented at 16th IFAC Symposium on System Identification, 
 % Brussels, Belgium, 2012
 %
