@@ -3,11 +3,11 @@ rjmcmc-sysid2012
 
 Reversible-Jump Markov Chain Monte Carlo sampler for inference in ARX models with Student-t innovations
 
-This code was downloaded from < https://github.com/compops/rjmcmc-sysid2012 > or from < http://liu.johandahlin.com/ > and contains the code used to produce the results in 
+This code was downloaded from < https://github.com/compops/rjmcmc-sysid2012 > and contains the code used to produce the results in 
 
-*J. Dahlin, F. Lindsten, T. B. Schön and A. Wills, Hierarchical Bayesian ARX models for robust inference. The 16th IFAC Symposium on System Identification, Brussels, Belgium, 2012.*
+J. Dahlin, F. Lindsten, T. B. Schön and A. Wills, **Hierarchical Bayesian ARX models for robust inference**. In the Proceedings of the 16th IFAC Symposium on System Identification, Brussels, Belgium, July 2012.
 
-which is available as a draft from < http://liu.johandahlin.com/ >.
+which is available from < http://research.johandahlin.com/files/Dahlin2012-RJMCMC.pdf >.
 
 Included files
 --------------
