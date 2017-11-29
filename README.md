@@ -7,7 +7,7 @@ This code was downloaded from < https://github.com/compops/rjmcmc-sysid2012 > an
 
 J. Dahlin, F. Lindsten, T. B. Schön and A. Wills, **Hierarchical Bayesian ARX models for robust inference**. In the Proceedings of the 16th IFAC Symposium on System Identification, Brussels, Belgium, July 2012.
 
-which is available from < http://research.johandahlin.com/files/Dahlin2012-RJMCMC.pdf >.
+which is available from < http://www.johandahlin.com/files/publications/Dahlin2012-RJMCMC.pdf >.
 
 Included files
 --------------
